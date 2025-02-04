@@ -9,7 +9,7 @@ https://roadmap.sh/projects/github-user-activity
 1. Clone the repository:
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/natthaphummm/github-user-activity.git
     cd github-user-activity
     ```
 
